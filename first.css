@@ -1,0 +1,18 @@
+/* Example CSS */
+.sidebar {
+  width: 200px;
+  background-color: #333;
+  color: white;
+  /* Add other styling properties */
+}
+
+.sidebar-nest {
+  margin-left: 10px; /* Example margin for nested items */
+}
+
+.sidebar-item {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  /* Add other styling properties */
+}
