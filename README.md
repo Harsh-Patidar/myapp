@@ -4,14 +4,6 @@
 
 This is a full-stack web application built to display a dashboard with an interactive graph representing the relationship between profit percentage and time. The UI is designed based on the provided Figma design.
 
-## Live Demo
-
-The application is deployed on [Netlify](https://your-netlify-deployed-link.com).
-
-## Screenshots
-
-![Dashboard UI](./screenshots/dashboard-ui.png)
-
 ## Features
 
 - Interactive graph displaying profit percentage over time.
@@ -28,10 +20,4 @@ The application is deployed on [Netlify](https://your-netlify-deployed-link.com)
 ## Local Development
 
 ### Backend (Python with Flask)
-
-1. Install dependencies:
-
-   ```bash
-   pip install Flask
-
 
