@@ -19,5 +19,6 @@ This is a full-stack web application built to display a dashboard with an intera
 
 ## Local Development
 
-### Backend (Python with Flask)
+##  Tech:-
+- Backend (Python with Flask)
 
